@@ -1,0 +1,46 @@
+page-operation-chat{
+    ion-item{
+        background: transparent !important;
+    }
+
+    ion-searchbar{
+        position: fixed;
+        top: 115px;
+        z-index: 9;
+    }
+
+
+    .selecta {
+
+        float: left;
+        display: flex;
+        overflow: auto;
+
+        ion-item{
+            float: left;
+            width: initial;
+        }
+       
+
+    }
+
+    .card{
+        margin: 10px !important;
+        width: auto !important;
+        margin-top: 70px !important;
+    }
+
+    .no-result{
+        text-align: center;
+        margin-top: 38%;
+
+        ion-icon{
+
+            font-size: 70px;
+        }
+
+        p{
+            font-size: 16px;
+        }
+    }
+}

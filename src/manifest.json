@@ -1,0 +1,13 @@
+{
+  "name": "trakouss",
+  "short_name": "trackouss",
+  "start_url": "index.html",
+  "display": "standalone",
+  "icons": [{
+    "src": "assets/img/appicon.png",
+    "sizes": "512x512",
+    "type": "image/png"
+  }],
+  "background_color": "#e68687",
+  "theme_color": "#e68687"
+}

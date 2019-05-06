@@ -1,0 +1,32 @@
+chats {
+    .chat{
+        .card__avatar{
+            height: 50px !important;
+        }
+    }
+
+    .time{
+            position: absolute;
+    right: 10px;
+    top: 10px;
+    font-size: 12px;
+    font-style: italic;
+    font-family: monospace;
+    }
+
+    .last_message{
+        font-size: 14px;
+    }
+
+     @media (max-width: 768px) {
+        .card{
+            margin: 1px 0;
+            border-radius: 0px;
+        }
+
+        .mus{
+            padding: 0
+        }
+    }
+
+}

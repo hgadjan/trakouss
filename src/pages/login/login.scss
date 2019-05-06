@@ -1,0 +1,29 @@
+page-login {
+       .logo{
+      text-align: center;
+      background: #fff;
+
+      img{
+          width: 50%;
+      }
+  }
+
+  .trakouss{
+    background: #0ac1e3;
+  }
+    .right{
+      text-align: right;
+    }
+
+    .left{
+      text-align: left;
+    }
+
+    a{
+      font-size: 1.0em;
+    }
+
+    ion-col{
+      padding: 2px;
+    }
+}

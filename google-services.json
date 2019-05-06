@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "790710294832",
+    "firebase_url": "https://blazing-fire-5226.firebaseio.com",
+    "project_id": "blazing-fire-5226",
+    "storage_bucket": "blazing-fire-5226.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:790710294832:android:0525ee82b5a31212",
+        "android_client_info": {
+          "package_name": "com.softcomp.trakouss"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "790710294832-0eejpho4k6hfdosv4bqmdcrj69i86oaf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCo9OuoHQwtwuLuqwiNZQVLnDRO-NUQgys"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
